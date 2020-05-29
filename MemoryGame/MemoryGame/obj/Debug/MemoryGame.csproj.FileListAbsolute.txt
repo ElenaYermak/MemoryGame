@@ -1,0 +1,20 @@
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Form1.resources
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\Alena\Desktop\Solutions Visual Studio\SW Development\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Form1.resources
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\Alena\Desktop\Studia\Semestr 5\SW\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
