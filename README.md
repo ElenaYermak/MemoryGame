@@ -1,2 +1,3 @@
 # MemoryGame
- Memory Game C#
+ 
+ The simple game "Memory game" for two players. 
